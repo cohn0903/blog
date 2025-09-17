@@ -22,7 +22,3 @@ Feel free to browse, fork, or reference this repository if you’re interested i
 This project is intended for personal archival. Please reach out if you have questions or would like to discuss broader sharing or use.
 
 ***
-
-Would you like to further customize this (e.g., add usage instructions, credits, or contact info)?
-
-[1](https://github.com/cohn0903/blog)
